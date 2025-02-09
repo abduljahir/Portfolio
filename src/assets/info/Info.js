@@ -66,7 +66,7 @@ export const info = {
       'Material UI',
       'Vue',
       'Express',
-      'NestJS',
+      'NextJS',
       'Spring Boot',
       'Bootstrap/jQuery',
       'Zend',
